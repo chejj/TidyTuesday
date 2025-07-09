@@ -1,6 +1,6 @@
 # 🖖 TidyTuesday: The (Somewhat) Original Series
 
-> *"Space: the final frontier. These are the voyages of the data scientist Jacob. His weekly mission: to explore strange new datasets, to seek out new life skills and libraries, to boldly go where no one man has gone before..."*
+> *"Space: the final frontier. These are the voyages of the data scientist Jacob. His weekly mission: to explore strange new datasets, to seek out new tools and libraries, to boldly go where no one man has gone before..."*
 
 ## Captain's Objectives
 - 📊 Visualize the galaxy of data with style and curiosity
