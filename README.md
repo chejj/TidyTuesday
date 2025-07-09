@@ -8,7 +8,7 @@
 - 📁 Upload each week's mission to GitHub before the black hole of procrastination sends me to the Kelvin Timeline
 
 ## ⚡ Powered by
-- 🧬 A healthy obsession with making pretty plots
+- 🧬 A desire to no longer make ugly plots
 - 🧠 Curiosity, caffeine, and Adderall XR (20 mg)
 
 Playing with the data shared by the Tidy Tuesday Community https://github.com/rfordatascience/tidytuesday?tab=readme-ov-file
