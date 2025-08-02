@@ -4,11 +4,11 @@
 
 ## Objectives
 - 📊 Visualize of data with style and curiosity
-- 🧠 Take chances, make mistakes and get messy
-- Create habit of practicing my data science skills
+- 🦎 Take chances, make mistakes and get messy
+- 🧠 Create habit of practicing my data science skills
 
 ## ⚡ Powered by
-- 🧬 A desire to no longer make basic plots
-- 🧠 Curiosity, caffeine, and Adderall XR (20 mg)
+- 🤌 A desire to no longer make basic plots
+- 💊 Curiosity, caffeine, and Adderall XR (20 mg)
 
 Playing with the data shared by the [Tidy Tuesday Community](https://github.com/rfordatascience/tidytuesday?tab=readme-ov-file)
